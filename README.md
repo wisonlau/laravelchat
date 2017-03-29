@@ -24,8 +24,8 @@ php start.php status
 
 浏览器打开 domain/chat，打开多个浏览器即可实现群聊
 
-![](https://github.com/wisonlau/laravelchat/tree/master/pic/E1E2ECC4-E106-4C58-A6B6-31C39E99BE98.png)
+![](https://github.com/wisonlau/laravelchat/blob/master/pic/E1E2ECC4-E106-4C58-A6B6-31C39E99BE98.png)
 
-![](https://github.com/wisonlau/laravelchat/tree/master/pic/2D53C40D-1279-4208-A000-B0BC07915E79.png)
+![](https://github.com/wisonlau/laravelchat/blob/master/pic/2D53C40D-1279-4208-A000-B0BC07915E79.png)
 
-![](https://github.com/wisonlau/laravelchat/tree/master/pic/B782CB6A-D51D-44D3-82F3-394878DC0281.png)
+![](https://github.com/wisonlau/laravelchat/blob/master/pic/B782CB6A-D51D-44D3-82F3-394878DC0281.png)
